@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {}
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
         "projectName": "MovieDBApp.Android",
-        "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
+        "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
         "packagesPath": "C:\\Users\\lab3\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
-                "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj"
+              "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
+                "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj"
               }
             }
           }
@@ -62,18 +62,17 @@
         }
       }
     },
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectUniqueName": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "projectName": "MovieDBApp",
-        "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "packagesPath": "C:\\Users\\lab3\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
+        "outputPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\lab3\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -129,10 +128,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
